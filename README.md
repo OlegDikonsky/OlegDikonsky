@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleg Dikonsky
 - 👀 I’m interested in web programing
-- 🌱 I’m currently learning in Academy
+- 🌱 I’m currently learning of STEP IT Academy
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
